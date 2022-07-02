@@ -33,34 +33,32 @@
 [Go to top:arrow_up: ](#top)
 
 <br/>
-1. Text Property
 <a name="Property"></a>
-
+1. Text Property
   > color, direction, letter-spacing, line-height, text-align, text-decoration, text-indent, text-shadow, text-transform, vertical-align, white-space, word-spacing.
 
 <br/>
-2. Measurement:
-
 <a name="measurement"></a>
+2. Measurement:
   > height, max-height, min-height, width, max-width, min-width.
 
 <br/>
-4. Font:
 <a name="font"></a>
+4. Font:
   > font, font-family, font-size, font-style, font-variant, font-width.
 
 [Go to top:arrow_up: ](#top)
 
 
 <br/>
-5. List Property:
 <a name="list-property"></a>
+5. List Property:
   > list-style, list-style-type, list-style-position, list-style-image.
 
 
 <br/>
-6. Link:
 <a name="link"></a>
+6. Link:
   > a:link, a:visited, a:hover, a:active.
 
 <br/>
