@@ -1,14 +1,14 @@
 [Go to top:arrow_up: ](#top)
 <a name="top"></a>
 
-1. [Text Property](#Property)
-1. [Measurement](#Measurement)
-1. [Font](#Font)
-1. [List Property](#List)
-1. [Link](#Link)
-1. [Background](#Background)
-1. [Border](#Border)
-1.[Display & Visibility](#Display)
+1. [Text Property](#property)
+1. [Measurement](#measurement)
+1. [Font](#font)
+1. [List Property](#list)
+1. [Link](#link)
+1. [Background](#background)
+1. [Border](#border)
+1.[Display & Visibility](#display)
 
 
 - Position:
