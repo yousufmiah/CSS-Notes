@@ -100,6 +100,7 @@
 <a name="position"></a>
   
   > static, fixed, relative, absolute. clip, cursor, overflow, z-index.
+
 [Go to top:arrow_up: ](#top)
 
 <br/>
@@ -122,6 +123,7 @@
 <a name="float-clear"></a>
   
   > Float: left, right, none, inherit. Clear: left, right, both, none.
+
 [Go to top:arrow_up: ](#top)
 
 <br/>
@@ -144,6 +146,7 @@
 <a name="transition"></a>
   
   > transition, transition-property, transition-duration, transition-timing-function, transition-delay.
+
 [Go to top:arrow_up: ](#top)
 
 <br/>
@@ -189,4 +192,5 @@
 <a name="informational-components"></a>
   
   > tooltips, icons, progress bar, notifications, message boxes, modal windows.
+
 [Go to top:arrow_up: ](#top)
