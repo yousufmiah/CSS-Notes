@@ -8,22 +8,12 @@
 1. [Link](#link)
 1. [Background](#background)
 1. [Border](#border)
-1. [Display & Visibility](#display)
+1. [Display & Visibility](#visibility)
 1. [Position](#position)
-
-
- 
-
-- Display:
-
-  
-- Box:
-
- 
-- Float & clear:
-
- 
-- Selector:
+1. [Display](#display)
+1. [Box](#box)
+1. [Float & Clear](#float-clear)
+1. [Selector](#selector)
 
 
 - Pseudo classes & element Selector:
