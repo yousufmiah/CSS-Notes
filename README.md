@@ -33,7 +33,7 @@
 [Go to top:arrow_up: ](#top)
 
 <br/>
-<a name="Property"></a>
+<a name="text-property"></a>
 
 1. Text Property
   
