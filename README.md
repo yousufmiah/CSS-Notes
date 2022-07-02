@@ -17,7 +17,8 @@
 
 > Cascading Style Sheets.
 
-[//]: # (Text Property)
+<br/>
+1. Text Property
 <a name="Property"></a>
 
   > color, direction, letter-spacing, line-height, text-align, text-decoration, text-indent, text-shadow, text-transform, vertical-align, white-space, word-spacing.
