@@ -11,6 +11,7 @@
 
   > color, direction, letter-spacing, line-height, text-align, text-decoration, text-indent, text-shadow, text-transform, vertical-align, white-space, word-spacing.
 
+<br/>
 - Measurement:
 
   > height, max-height, min-height, width, max-width, min-width.
