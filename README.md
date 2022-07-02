@@ -14,29 +14,14 @@
 1. [Box](#box)
 1. [Float & Clear](#float-clear)
 1. [Selector](#selector)
-
-
-- Pseudo classes & element Selector:
-
-  
-
-- Transitions:
-
-  
-- Transform:
-
- 
-- Transform-origin:
-
-- Animation:
-
- 
-- Practice:
-
- 
-- Navigational Components:
-
-
+1. [Pseudo Classes & Element Selector](#psedudo-Classes)
+1. [Transition](#transition)
+1. [Transition](#transition)
+1. [Transform](#transform)
+1. [Transform-origin](#transform-origin)
+1. [Animation](#animation)
+1. [Practice](#practice)
+1. [Navigational Components](#navigational-components)
 
 ---
 ***
