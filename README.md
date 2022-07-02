@@ -1,4 +1,15 @@
+[Go to top:arrow_up: ](#top)
+<a name="top"></a>
 
+1. [Text Property](#Property)
+
+---
+***
+
+
+[//]: # (Text Property)
+<a name="Property"></a>
+========================
 
 # css-short-note
 
@@ -6,8 +17,8 @@
 
 > Cascading Style Sheets.
 
-<br/>
-- Text Property:
+[//]: # (Text Property)
+<a name="Property"></a>
 
   > color, direction, letter-spacing, line-height, text-align, text-decoration, text-indent, text-shadow, text-transform, vertical-align, white-space, word-spacing.
 
@@ -19,6 +30,7 @@
 - Font:
 
   > font, font-family, font-size, font-style, font-variant, font-width.
+
 
 - List Property:
 
