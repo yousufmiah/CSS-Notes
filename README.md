@@ -52,19 +52,22 @@
 
 <br/>
 <a name="list-property"></a>
+
 5. List Property:
   > list-style, list-style-type, list-style-position, list-style-image.
 
 
 <br/>
 <a name="link"></a>
+
 6. Link:
   > a:link, a:visited, a:hover, a:active.
 
 <br/>
-7. Background:
 <a name="background"></a>
+7. Background:
   > background, background-color, background-image, background-repeat, background-attachment, background-position, background-size, background-origin.
+  > 
 [Go to top:arrow_up: ](#top)
 
 <br/>
