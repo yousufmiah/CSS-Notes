@@ -29,15 +29,8 @@
 
 ---
 ***
-======
-=====
 
-
-[//]: # (Text Property)
-<a name="Property"></a>
-========================
 [Go to top:arrow_up: ](#top)
-
 
 <br/>
 1. Text Property
@@ -46,7 +39,8 @@
   > color, direction, letter-spacing, line-height, text-align, text-decoration, text-indent, text-shadow, text-transform, vertical-align, white-space, word-spacing.
 
 
-- Measurement:
+2. Measurement:
+<a name="measurement"></a>
 
   > height, max-height, min-height, width, max-width, min-width.
 
@@ -54,6 +48,7 @@
 
   > font, font-family, font-size, font-style, font-variant, font-width.
 
+[Go to top:arrow_up: ](#top)
 
 - List Property:
 
