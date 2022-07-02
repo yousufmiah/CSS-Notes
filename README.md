@@ -1,5 +1,4 @@
-[Go to top:arrow_up: ](#top)
-<a name="top"></a>
+
 
 1. [Text Property](#property)
 1. [Measurement](#measurement)
