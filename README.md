@@ -3,25 +3,12 @@
 
 1. [Text Property](#Property)
 1. [Measurement](#Measurement)
-
-
-
-- Measurement:
-
-- Font:
-
-
-- List Property:
-
-- Link:
-
-- Background:
-
-
-- Border:
-
- 
-- Display & visibility:
+1. [Font](#Font)
+1. [List Property](#List)
+1. [Link](#Link)
+1. [Background](#Background)
+1. [Border](#Border)
+1.[Display & Visibility](#Display)
 
 
 - Position:
