@@ -34,7 +34,9 @@
 
 <br/>
 <a name="Property"></a>
+
 1. Text Property
+  
   > color, direction, letter-spacing, line-height, text-align, text-decoration, text-indent, text-shadow, text-transform, vertical-align, white-space, word-spacing.
 
 <br/>
