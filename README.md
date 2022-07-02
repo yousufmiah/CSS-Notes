@@ -150,6 +150,7 @@
 19. Animation:
   
   > animation, animation-name, animation-duration, animation-timing-function, animation-delay, animation-iteration-count, animation-direction, animation-fill-mode, animation-play-state.
+
 [Go to top:arrow_up: ](#top)
 
 <br/>
