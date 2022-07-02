@@ -9,8 +9,8 @@
 1. [Background](#background)
 1. [Border](#border)
 1. [Display & Visibility](#display)
+1. [Position](#position)
 
-- Position:
 
  
 
