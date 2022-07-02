@@ -34,19 +34,22 @@
 
 <br/>
 1. Text Property
+
 <a name="Property"></a>
 
   > color, direction, letter-spacing, line-height, text-align, text-decoration, text-indent, text-shadow, text-transform, vertical-align, white-space, word-spacing.
 
 <br/>
 2. Measurement:
+
 <a name="measurement"></a>
 
   > height, max-height, min-height, width, max-width, min-width.
 
 <br/>
 4. Font:
-- <a name="font"></a>
+
+<a name="font"></a>
 
   > font, font-family, font-size, font-style, font-variant, font-width.
 
