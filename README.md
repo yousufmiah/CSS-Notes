@@ -41,12 +41,16 @@
 
 <br/>
 <a name="measurement"></a>
+
 2. Measurement:
+  
   > height, max-height, min-height, width, max-width, min-width.
 
 <br/>
 <a name="font"></a>
+
 4. Font:
+  
   > font, font-family, font-size, font-style, font-variant, font-width.
 
 [Go to top:arrow_up: ](#top)
@@ -56,6 +60,7 @@
 <a name="list-property"></a>
 
 5. List Property:
+  
   > list-style, list-style-type, list-style-position, list-style-image.
 
 
@@ -63,16 +68,20 @@
 <a name="link"></a>
 
 6. Link:
+  
   > a:link, a:visited, a:hover, a:active.
 
 <br/>
 <a name="background"></a>
+
 7. Background:
+  
   > background, background-color, background-image, background-repeat, background-attachment, background-position, background-size, background-origin.
   > 
 [Go to top:arrow_up: ](#top)
 
 <br/>
+
 8. Border:
 <a name="border"></a>
 
@@ -80,76 +89,104 @@
 
 <br/>
 9. Display & visibility:
+
 <a name="display-visibility"></a>
+  
   > display: none, inline, block, flex. visibility: visible, hidden.
 
 <br/>
 10. Position:
+
 <a name="position"></a>
+  
   > static, fixed, relative, absolute. clip, cursor, overflow, z-index.
 [Go to top:arrow_up: ](#top)
 
 <br/>
 11. Display:
+
 <a name="display"></a>
+  
   > flex- flex-direction, flex-wrap, flex-flow, justify-content, align-item, align-content, order, flex-grow, align-self.
 
 <br/>
 12. Box:
+
 <a name="box"></a>
+  
   > outline, margin, border, padding, content.
 
 <br/>
 13. Float & clear:
+
 <a name="float-clear"></a>
+  
   > Float: left, right, none, inherit. Clear: left, right, both, none.
 [Go to top:arrow_up: ](#top)
 
 <br/>
 14. Selector:
+
 <a name="selector"></a>
-> universal, id, class, type, descendent, direct children, grouping.
+  
+  > universal, id, class, type, descendent, direct children, grouping.
 
 <br/>
 15. Pseudo classes & element Selector:
+
 <a name="pseudo-classes"></a>
+  
   > pseudo class {property: value;} :link, :visited, :active, :hover, :focus, :first-letter, first-line, :first-child, :after, :before.
 
 <br/>
 16. Transitions:
+
 <a name="transition"></a>
+  
   > transition, transition-property, transition-duration, transition-timing-function, transition-delay.
 [Go to top:arrow_up: ](#top)
 
 <br/>
 17. Transform:
+
 <a name="transform"></a>
+  
   > rotate, scale, skew, translate.
 
 <br/>
 18. Transform-origin:
+
 <a name="transform-origin"></a>
+  
   > transform-origin:0% 0%;
 
 <br/>
 19. Animation:
+
 <a name="animation"></a>
+  
   > animation, animation-name, animation-duration, animation-timing-function, animation-delay, animation-iteration-count, animation-direction, animation-fill-mode, animation-play-state.
 [Go to top:arrow_up: ](#top)
 
 <br/>
 20. Practice:
+
 <a name="practice"></a>
-  > Header, NavigationBar, Slider, Website Content, Card Design, Sidebar, Footer, Landing Page.
+ 
+ > Header, NavigationBar, Slider, Website Content, Card Design, Sidebar, Footer, Landing Page.
   > Input Controls: checkboxes, radio buttons, dropdown lists, list boxes, buttons, toggles, text fields, date field
 
 <br/>
 21. Navigational Components:
+
 <a name="navigation-components"></a>
+  
   > breadcrumb, slider, search field, pagination, slider, tags, icons
 
 <br/>
 22. Informational Components:
+
 <a name="informational-components"></a>
+  
   > tooltips, icons, progress bar, notifications, message boxes, modal windows.
 [Go to top:arrow_up: ](#top)
