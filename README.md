@@ -1,9 +1,9 @@
-# css-short-note
+<a name="top"></a>
+## css-short-note
 
 ### CSS Full meaning:
 
 > Cascading Style Sheets.
-<a name="top"></a>
 
 1. [Text Property](#property)
 1. [Measurement](#measurement)
@@ -44,80 +44,83 @@
 
   > height, max-height, min-height, width, max-width, min-width.
 
-- Font:
+4. Font:
+- <a name="font"></a>
 
   > font, font-family, font-size, font-style, font-variant, font-width.
 
 [Go to top:arrow_up: ](#top)
 
-- List Property:
-
+5. List Property:
+<a name=""></a>
   > list-style, list-style-type, list-style-position, list-style-image.
 
-- Link:
-
+6. Link:
+<a name=""></a>
   > a:link, a:visited, a:hover, a:active.
 
-- Background:
-
+7. Background:
+<a name=""></a>
   > background, background-color, background-image, background-repeat, background-attachment, background-position, background-size, background-origin.
 
-- Border:
+8. Border:
+<a name=""></a>
 
   > border, border-width, border-radius, border-collapse, border-color, border-image, border-image-repeat, border-image-slice, border-image-outset, border-style.
 
-- Display & visibility:
-
+9. Display & visibility:
+<a name=""></a>
   > display: none, inline, block, flex. visibility: visible, hidden.
 
-- Position:
-
+10. Position:
+<a name=""></a>
   > static, fixed, relative, absolute. clip, cursor, overflow, z-index.
 
-- Display:
-
+11. Display:
+<a name=""></a>
   > flex- flex-direction, flex-wrap, flex-flow, justify-content, align-item, align-content, order, flex-grow, align-self.
 
-- Box:
-
+12. Box:
+<a name=""></a>
   > outline, margin, border, padding, content.
 
-- Float & clear:
-
+13. Float & clear:
+<a name=""></a>
   > Float: left, right, none, inherit. Clear: left, right, both, none.
 
-- Selector:
-
+14. Selector:
+<a name=""></a>
 > universal, id, class, type, descendent, direct children, grouping.
 
-- Pseudo classes & element Selector:
-
+15. Pseudo classes & element Selector:
+<a name=""></a>
   > pseudo class {property: value;} :link, :visited, :active, :hover, :focus, :first-letter, first-line, :first-child, :after, :before.
 
-- Transitions:
-
+16. Transitions:
+<a name=""></a>
   > transition, transition-property, transition-duration, transition-timing-function, transition-delay.
 
-- Transform:
-
+17. Transform:
+<a name=""></a>
   > rotate, scale, skew, translate.
 
-- Transform-origin:
-
+18. Transform-origin:
+<a name=""></a>
   > transform-origin:0% 0%;
 
-- Animation:
-
+19. Animation:
+<a name=""></a>
   > animation, animation-name, animation-duration, animation-timing-function, animation-delay, animation-iteration-count, animation-direction, animation-fill-mode, animation-play-state.
 
-- Practice:
-
+20. Practice:
+<a name=""></a>
   > Header, NavigationBar, Slider, Website Content, Card Design, Sidebar, Footer, Landing Page.
   > Input Controls: checkboxes, radio buttons, dropdown lists, list boxes, buttons, toggles, text fields, date field
 
-- Navigational Components:
-
+21. Navigational Components:
+<a name=""></a>
   > breadcrumb, slider, search field, pagination, slider, tags, icons
 
-- Informational Components:
+22. Informational Components:
+<a name=""></a>
   > tooltips, icons, progress bar, notifications, message boxes, modal windows.
