@@ -34,14 +34,12 @@
 
 <br/>
 <a name="text-property"></a>
-
 1. Text Property
   
   > color, direction, letter-spacing, line-height, text-align, text-decoration, text-indent, text-shadow, text-transform, vertical-align, white-space, word-spacing.
 
 <br/>
 <a name="measurement"></a>
-
 2. Measurement:
   
   > height, max-height, min-height, width, max-width, min-width.
@@ -81,16 +79,15 @@
 [Go to top:arrow_up: ](#top)
 
 <br/>
-
-8. Border:
 <a name="border"></a>
+8. Border:
+
 
   > border, border-width, border-radius, border-collapse, border-color, border-image, border-image-repeat, border-image-slice, border-image-outset, border-style.
 
 <br/>
-9. Display & visibility:
-
 <a name="display-visibility"></a>
+9. Display & visibility:
   
   > display: none, inline, block, flex. visibility: visible, hidden.
 
