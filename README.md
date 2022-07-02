@@ -6,9 +6,7 @@
 1. [Font](#font)
 1. [List Property](#list)
 1. [Link](#link)
-1. [Background](#background)
-1.[Border](#border)
-1.[Display & Visibility](#display)
+
 
 
 - Position:
